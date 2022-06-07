@@ -44,8 +44,5 @@ $parameters = @{
 }
 Set-PSReadLineKeyHandler @parameters
 
-Import-Module posh-git
-Import-Module oh-my-posh
-Import-Module -Name Terminal-Icons
-Set-Theme Paradox
+oh-my-posh init pwsh --config C:\Dev\TerminalSetup\cloud-native-azure.omp.json | Invoke-Expression
 cd c:\dev
