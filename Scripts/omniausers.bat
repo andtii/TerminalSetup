@@ -1,0 +1,1 @@
+omnia dev ui -p "C:\Dev\Omnia\users\src;C:\Dev\OmniaWebContentManagement\users\src;C:\Dev\OmniaWorkplace\users\src"

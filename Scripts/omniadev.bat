@@ -1,0 +1,1 @@
+omnia dev ui -p "C:\Dev\Omnia\dev\src;C:\Dev\OmniaWebContentManagement\dev\src;C:\Dev\OmniaWorkplace\dev\src"

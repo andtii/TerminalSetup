@@ -44,5 +44,5 @@ $parameters = @{
 }
 Set-PSReadLineKeyHandler @parameters
 
-oh-my-posh init pwsh --config C:\Dev\TerminalSetup\cloud-native-azure.omp.json | Invoke-Expression
+oh-my-posh init pwsh --config C:\Dev\TerminalSetup\1shell.json | Invoke-Expression
 cd c:\dev
