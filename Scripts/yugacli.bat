@@ -1,0 +1,1 @@
+podman run -it yugabytedb/yugabyte-client ysqlsh -h 20.23.143.161 -p 5433 -U omniahub

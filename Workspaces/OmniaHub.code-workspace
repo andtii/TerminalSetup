@@ -1,0 +1,41 @@
+{
+    "folders": [
+        {
+            "path": "c:\\Dev\\OmniaCloud\\dev\\src\\HubSql"
+        },
+        {
+            "path": "c:\\Dev\\OmniaCloud\\dev\\src\\Omnia.Cloud.Core"
+        },
+        {
+            "path": "c:\\Dev\\OmniaCloud\\dev\\src\\Omnia.Cloud.Models"
+        },
+        {
+            "path": "c:\\Dev\\OmniaCloud\\dev\\src\\Omnia.Hub.Activities.Web"
+        },
+        {
+            "path": "c:\\Dev\\OmniaCloud\\dev\\src\\Omnia.Hub.Core"
+        },
+        {
+            "path": "c:\\Dev\\OmniaCloud\\dev\\src\\Omnia.Hub.Core.Web"
+        },
+        {
+            "path": "c:\\Dev\\OmniaCloud\\dev\\src\\Omnia.Hub.Endpoints.Web"
+        },
+        {
+            "path": "c:\\Dev\\OmniaCloud\\dev\\src\\Omnia.Hub.Fx"
+        },
+        {
+            "path": "c:\\Dev\\OmniaCloud\\dev\\src\\Omnia.Hub.Models"
+        },
+        {
+            "path": "c:\\Dev\\OmniaCloud\\dev\\src\\Omnia.Hub.Realtime.Core"
+        },
+        {
+            "path": "c:\\Dev\\OmniaCloud\\dev\\src\\Omnia.Hub.Realtime.Web"
+        },
+        {
+            "path": "c:\\Dev\\OmniaCloud\\dev\\src\\Omnia.Hub.Worker"
+        }
+    ],
+    "settings": {}
+}
